@@ -1,3 +1,2 @@
 # evoCacheManager
-Плагин оформлен в пакет для установки через MODX store.
-Создание кэша
+Evo Dashboard widget to generate the site cache
