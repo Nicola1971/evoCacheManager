@@ -2,7 +2,7 @@
 /**
  * EvoCacheManager
  *
- * Widget for manager on dashboard
+ * Evo Dashboard widget to generate the site cache
  *
  * @category    plugin
  * @version     1.2.2
