@@ -1,2 +1,4 @@
 # evoCacheManager
-Evo Dashboard widget to generate the site cache
+Evo 1.4x Dashboard widget to generate the site cache
+
+
