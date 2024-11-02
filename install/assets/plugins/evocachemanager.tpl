@@ -5,7 +5,7 @@
  * Evo Dashboard widget to generate the site cache
  *
  * @category    plugin
- * @version     1.2.2
+ * @version     1.2.3
  * @license     http://www.gnu.org/copyleft/gpl.html GNU Public License (GPL)
  * @package     evolution
  * @author      Wlatt (wlatt1991@yandex.ru), Updated by Nicola
