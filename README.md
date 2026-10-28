@@ -5,6 +5,10 @@ Created by https://github.com/wlatt1991
 
 Original version (1.2.1) here: https://github.com/wlatt1991/evoCacheManager
 
+## 1.2.4
+fix for php8.4.
+## 1.2.3
+Added italian language.
 ## 1.2.2
 Added config options to limit widget visibility to administrators or manager roles.
 
